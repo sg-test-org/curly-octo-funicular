@@ -2,6 +2,7 @@ package org.junit.runners;
 
 import org.junit.runners.model.InitializationError;
 import org.junit.runners.model.TestClass;
+import org.junit.runners.model.TestInterface;
 
 /**
  * Aliases the current default JUnit 4 class runner, for future-proofing. If
